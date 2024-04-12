@@ -20,7 +20,7 @@ To recreate the results:
 
 - Create Python 3.9.19 virtual environment
 - Download the repository
-- Head to directory `Pres_Pokora_Salinski/`
+- Head to directory `Harry-Potter-dialogue-poster/`
 - Run the following command:
 
 ```bash
